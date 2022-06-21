@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Tiritan
+- 👀 I’m interested in ...aprender sobre Análise de Dados e SQL!
+- 🌱 I’m currently learning Power BI.
+- 💞️ I’m looking to collaborate on ... identificar e solucionar problemas através da cultura Data-Drive
+- 📫 How to reach me ... +55 11 954215890
+- Sou formado em Eletroeltrônca, Marketing e Cozinheiro Chef Iternacional.
+-  Estou migrando paa área de BI (Iinteligência de Negócios).
